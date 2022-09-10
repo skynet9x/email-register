@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<link href="https://netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="css/option.css" rel="stylesheet">
+<body>
+  <nav class="navbar navbar-default navbar-inverse navbar-app" role="navigation">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Skynet</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="http://jopen.me/" target="_bank">Jopen</a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav nav-pills">
+          <li class="active">
+              <a data-toggle="pill" href="#Checklive">Checklive</a>
+          </li>
+          <li >
+              <a data-toggle="pill" href="#backup">Backup</a>
+          </li>
+
+          <li>
+            <a data-toggle="pill" href="#Profile">Profile</a>
+          </li>
+          
+          <li>
+            <a data-toggle="pill" href="#yahoo">Register Yahoo</a>
+          </li>
+
+          <li>
+            <a data-toggle="pill" href="#yahoo">Yahoo</a>
+          </li>
+
+          <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tool Other <span class="caret"></span></a>
+            <ul class="dropdown-menu" role="menu">
+              <li><a href="#">Request Uid</a></li>
+              <li><a href="#">Request Sugget</a></li>
+              <li><a href="#">Request Comfim</a></li>
+              <li><a href="#">Updated Status</a></li>
+            </ul>
+          </li>
+        </ul>
+        <form class="navbar-form navbar-right" id="login-from" style="display: none;">
+          <div class="form-group">
+            <input type="text" id="email" class="form-control" placeholder="Email">
+          </div>
+          <div class="form-group">
+            <input type="password" id="password" class="form-control" placeholder="Password">
+          </div>
+          <button type="button" class="btn btn-default" id="btn_login">Login</button>
+        </form>
+        <ul class="nav navbar-nav navbar-right" id="user-nav" style="display: none;">
+          <li><a href="#" class="name-user"></a></li>
+          <li><a href="#" id="btn_logout"><span class="glyphicon glyphicon-log-in"></span> Logout</a></li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+  </nav>
+
+  <div class="tab-content">
+    <div id="Checklive" class="tab-pane fade in active">
+      <h3>Checklive</h3>
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <form>
+            <div class="col-xs-5 ">
+              <div class="form-group">
+                <label for="email">Type:</label>
+                <select class="form-control" name="checklive_type">
+                  <option value="server">Server</option>
+                  <option value="raw">Raw</option>
+                </select>
+              </div>
+            </div>
+            <div class="clear"></div>
+
+            <div class="col-xs-4" data-checklive-type="server">
+              <div class="form-group">
+                <label for="email">Uid:</label>
+                <input type="text" class="form-control" placeholder="Uid...">
+              </div>
+            </div>
+            <div class="col-xs-4" data-checklive-type="server">
+              <div class="form-group">
+                <label for="email">Tag:</label>
+                <select class="form-control" name="checklive_tag">
+                </select>
+              </div>
+            </div>
+            <div class="col-xs-4" data-checklive-type="server">
+              <div class="form-group">
+                <label for="email">Status:</label>
+                <select class="form-control" name="checklive_status">
+                </select>
+              </div>
+            </div>
+            <div class="col-xs-12" data-checklive-type="raw" style="display: none;">
+              <div class="form-group">
+                <label for="email">List clone:</label>
+                <textarea class="form-control" rows="5" id="clone"></textarea>
+              </div>
+            </div>
+            <div class="col-xs-1">
+              <div class="form-group">
+                <label for="pwd">Delay:</label>
+                <input type="text" class="form-control" value="60">
+              </div>
+            </div>
+            <div class="col-xs-12">
+              <div class="checkbox">
+                <label><input type="checkbox" checked> Get Access_token </label>
+              </div>
+            </div>
+            <div class="col-xs-12">
+              <button type="button" class="btn btn-primary pull-right" id="btn_checklive_start">Get</button>
+            </div>
+          </form>
+        </div>
+      </div>
+      
+    </div>
+
+    <div id="backup" class="tab-pane fade">
+      <h3>Backup</h3>
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="col-xs-12">
+            
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="Profile" class="tab-pane fade">
+      <h3>Profile</h3>
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="col-xs-8">
+              <input type="text" class="form-control cookie-profile" class="form-control" placeholder="Cookie ...">
+          </div>
+          <div class="col-xs-2">
+            <button type="button" class="btn btn-primary" id="btn_set_cookie">Set Cookie Profile</button>
+          </div>
+          <div class="col-xs-2">
+            <button type="button" class="btn btn-primary" id="btn_get_cookie">Get Cookie Profile</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="yahoo" class="tab-pane fade">
+      <h3>Yahoo register</h3>
+
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <div class="col-xs-8">
+              <input type="text" class="form-control yahoo-phone" class="form-control" placeholder="Phone ...">
+          </div>
+
+          <div class="col-xs-2">
+            <button type="button" class="btn btn-primary" id="btn_yahoo_save_option">Save option</button>
+          </div>
+
+          <div class="col-xs-2">
+            <button type="button" class="btn btn-primary" id="btn_yahoo_start">Start</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="js/db.js"></script>
+  <script type="text/javascript" src="js/Auth.js"></script>
+  <script type="text/javascript" src="js/eventPage.js"></script>
+  <script type="text/javascript" src="js/Facebook.js"></script>
+  <script type="text/javascript" src="js/checkliveController.js"></script>
+
+  <script type="text/javascript" src="js/app.js"></script>
+</body>
+</html>

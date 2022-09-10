@@ -1,0 +1,25 @@
+#jo-lock-page
+{
+	position: fixed;
+	top: 0; left: 0;
+
+	width: 100vw;
+	height: 100vh;
+	z-index: 100000;
+	display: block;
+	background-color: #d8dfea;
+}
+#jo-lock-page h1
+{
+	display: block;
+	width: 100%; 
+	text-align: center;
+	margin: 25px 0 0;
+}
+.lbl_error 
+{
+	color: red;
+}
+.lbl_success {
+	color: green;
+}

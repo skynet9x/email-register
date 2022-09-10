@@ -1,0 +1,61 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "name": "Super Tool",
+  "description": "",
+  "version": "1.0.0.1",
+  "manifest_version": 2,
+  "icons": { "16": "img/logo-16.png", "24": "img/logo-24.png", "32": "img/logo-32.png", "128": "img/logo-128.png"},
+  "background": {
+    "scripts": ["js/db.js", "js/jquery.min.js", "js/moment.js", "js/dist/socket.io.js", "js/background/event_page.js", "js/background/app.js"]
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://*.youtube.com/*", "https://*.google.com/*", "http://cms.tube.com/*", "http://tube.jopen.me/*"],
+      "js": [ 
+        "js/db.js", "js/jquery.min.js", 
+        "js/moment.js",
+        "js/sha1.min.js",
+        "html/js/eventPage.js",
+        "js/content/app.js",
+        "js/content/chothuesimcode.js",
+        "js/content/youtube.js"
+      ],
+      "css": ["css/app.css"],
+      "run_at": "document_end",
+      "all_frames": false
+    }
+  ],
+
+  "browser_action": {
+      "default_title": "Jopen client",
+      "default_icon": "img/logo-32.png",
+      "default_popup": "html/page.html"
+  },
+
+  "web_accessible_resources": [
+    "html/*",
+    "img/*",
+    "config.json"
+  ],
+
+  "externally_connectable": {
+    "matches": ["https://*.youtube.com/*", "https://*.google.com/*", "http://*.jopen.me/*", "http://cms.tube.com/*", "http://tube.jopen.me/*"]
+  },
+
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "storage",
+    "cookies",
+    "background",
+    "https://*/*",
+    "http://*/*",
+    "webRequest",
+    "webRequestBlocking",
+    "proxy",
+    "management",
+    "history",
+    "declarativeContent"
+  ]
+}

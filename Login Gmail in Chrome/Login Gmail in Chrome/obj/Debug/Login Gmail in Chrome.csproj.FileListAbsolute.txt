@@ -1,0 +1,65 @@
+D:\Công việc\gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Login Gmail in Chrome.exe.config
+D:\Công việc\gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Login Gmail in Chrome.exe
+D:\Công việc\gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Login Gmail in Chrome.pdb
+D:\Công việc\gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.csprojAssemblyReference.cache
+D:\Công việc\gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login_Gmail_in_Chrome.Form1.resources
+D:\Công việc\gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login_Gmail_in_Chrome.Properties.Resources.resources
+D:\Công việc\gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.csproj.GenerateResource.cache
+D:\Công việc\gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.csproj.CoreCompileInputs.cache
+D:\Công việc\gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.exe
+D:\Công việc\gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.pdb
+D:\Công việc\gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Newtonsoft.Json.dll
+D:\Công việc\gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\xNet.dll
+D:\Công việc\gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Newtonsoft.Json.xml
+D:\Công việc\gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.csproj.CopyComplete
+D:\Công việc\gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\EngineIoClientDotNet.dll
+D:\Công việc\gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\SocketIoClientDotNet.dll
+D:\Công việc\gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\WebSocket4Net.dll
+D:\VS 2017\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Login Gmail in Chrome.exe.config
+D:\VS 2017\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Login Gmail in Chrome.exe
+D:\VS 2017\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Login Gmail in Chrome.pdb
+D:\VS 2017\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\EngineIoClientDotNet.dll
+D:\VS 2017\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Newtonsoft.Json.dll
+D:\VS 2017\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\SocketIoClientDotNet.dll
+D:\VS 2017\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\WebSocket4Net.dll
+D:\VS 2017\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Newtonsoft.Json.xml
+D:\VS 2017\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.csprojAssemblyReference.cache
+D:\VS 2017\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login_Gmail_in_Chrome.Form1.resources
+D:\VS 2017\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login_Gmail_in_Chrome.Properties.Resources.resources
+D:\VS 2017\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.csproj.GenerateResource.cache
+D:\VS 2017\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.csproj.CoreCompileInputs.cache
+D:\VS 2017\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.csproj.CopyComplete
+D:\VS 2017\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.exe
+D:\VS 2017\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.pdb
+D:\Công việc\gmail\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Login Gmail in Chrome.exe.config
+D:\Công việc\gmail\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Login Gmail in Chrome.exe
+D:\Công việc\gmail\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Login Gmail in Chrome.pdb
+D:\Công việc\gmail\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\EngineIoClientDotNet.dll
+D:\Công việc\gmail\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Newtonsoft.Json.dll
+D:\Công việc\gmail\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\SocketIoClientDotNet.dll
+D:\Công việc\gmail\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\WebSocket4Net.dll
+D:\Công việc\gmail\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Newtonsoft.Json.xml
+D:\Công việc\gmail\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.csprojAssemblyReference.cache
+D:\Công việc\gmail\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login_Gmail_in_Chrome.Form1.resources
+D:\Công việc\gmail\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login_Gmail_in_Chrome.Properties.Resources.resources
+D:\Công việc\gmail\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.csproj.GenerateResource.cache
+D:\Công việc\gmail\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.csproj.CoreCompileInputs.cache
+D:\Công việc\gmail\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.csproj.CopyComplete
+D:\Công việc\gmail\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.exe
+D:\Công việc\gmail\Gmail\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.pdb
+D:\Công việc\github\gmail-register\email-register\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.csprojAssemblyReference.cache
+D:\Công việc\github\gmail-register\email-register\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login_Gmail_in_Chrome.Form1.resources
+D:\Công việc\github\gmail-register\email-register\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login_Gmail_in_Chrome.Properties.Resources.resources
+D:\Công việc\github\gmail-register\email-register\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.csproj.GenerateResource.cache
+D:\Công việc\github\gmail-register\email-register\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.csproj.CoreCompileInputs.cache
+D:\Công việc\github\gmail-register\email-register\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Register Gmail Chrome.exe.config
+D:\Công việc\github\gmail-register\email-register\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Register Gmail Chrome.exe
+D:\Công việc\github\gmail-register\email-register\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Register Gmail Chrome.pdb
+D:\Công việc\github\gmail-register\email-register\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\EngineIoClientDotNet.dll
+D:\Công việc\github\gmail-register\email-register\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Newtonsoft.Json.dll
+D:\Công việc\github\gmail-register\email-register\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\SocketIoClientDotNet.dll
+D:\Công việc\github\gmail-register\email-register\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\WebSocket4Net.dll
+D:\Công việc\github\gmail-register\email-register\Login Gmail in Chrome\Login Gmail in Chrome\bin\Debug\Newtonsoft.Json.xml
+D:\Công việc\github\gmail-register\email-register\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Login Gmail in Chrome.csproj.CopyComplete
+D:\Công việc\github\gmail-register\email-register\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Register Gmail Chrome.exe
+D:\Công việc\github\gmail-register\email-register\Login Gmail in Chrome\Login Gmail in Chrome\obj\Debug\Register Gmail Chrome.pdb
